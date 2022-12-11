@@ -10,3 +10,4 @@ Author:subathra
 
 4.Attachments code(Audio, video, image) code
 5. last seen hiding code
+6. hiding the last seen code
